@@ -1,5 +1,5 @@
 # GitTurtorial3
 私は、えきです
-これはdevelopブランチです
+これはmainブランチです
 いかに適当にコードを貼ります。
 `git commit -m "これは意味のないコミットです"`
